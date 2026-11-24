@@ -34,20 +34,6 @@ Project 1/
 └── README.md
 ```
 
-## Python Concepts Used
-
-Dar in proje az mafahim zir estefade shode ast:
-
-- Variables
-- Data Types
-- Input and Output
-- While Loop
-- For Loop
-- If / Else
-- Arithmetic Operators
-- Type Conversion
-- String Concatenation
-
 ## How It Works
 
 1. Dar ebtedaye barname tedad daneshjooyan daryaft mishavad.

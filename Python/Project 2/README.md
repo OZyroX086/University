@@ -11,6 +11,10 @@ In proje yek mashin hesab sade ast.
 - Taghsim (Division)
 - Tavan (Power)
 - Baghi Mande (Remainder)
+- Ghadr Motlagh (Absolute)
+- Jazr (Square Root)
+- Darsad (Percentage)
+- Miangin (Average)
 - Tarikhche Mohasebat (Calculation History)
 - Error Handling
 - Menu System
@@ -35,24 +39,6 @@ Project 2/
 ├── calculator.py
 └── README.md
 ```
-
-## Python Concepts Used
-
-Dar in proje az mafahim zir estefade shode ast:
-
-- Variables
-- Functions
-- Parameters and Arguments
-- Return
-- If / Else
-- Match / Case
-- While Loop
-- For Loop
-- Lists
-- Input and Output
-- Try / Except
-- Break
-- Built-in Functions
 
 ## How It Works
 
